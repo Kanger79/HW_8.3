@@ -12,6 +12,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.devtools.v85.input.Input;
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 public class CallBackTest {
     private static WebDriver driver;
 
@@ -48,7 +50,8 @@ public class CallBackTest {
         driver.findElement(By.cssSelector("[data-test-id=phone] input")).sendKeys("+78002008002");
         driver.findElement(By.cssSelector("[data-test-id=agreement]")).click();
         driver.findElement(By.className("button")).click();
-
+        String actual = driver.findElement(By.cssSelector("[data-test-id=order-success]")).getText();
+        assertEquals("Ваша заявка успешно отправлена! Наш менеджер свяжется с вами в ближайшее время.", actual.trim());
         Thread.sleep(5000);
 
 
