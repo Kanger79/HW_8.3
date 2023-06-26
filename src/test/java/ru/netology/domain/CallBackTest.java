@@ -5,9 +5,12 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.devtools.v85.input.Input;
 
 public class CallBackTest {
     private static WebDriver driver;
@@ -17,7 +20,7 @@ public class CallBackTest {
     @BeforeAll
     static void setUpAll() {
         WebDriverManager.chromedriver().setup();
-        System.setProperty("webdriver.chrome.driver", "driver/win/chromedriver");
+//        System.setProperty("webdriver.chrome.driver", "driver/win/chromedriver");
         options.addArguments("--disable-dev-shm-usage");
         options.addArguments("--no-sandbox");
         options.addArguments("--headless");
@@ -25,25 +28,29 @@ public class CallBackTest {
     }
 
     @BeforeEach
-    void setUp() {driver=new ChromeDriver();
+    void setUp() {
+        driver = new ChromeDriver();
         ChromeOptions options = new ChromeOptions();
 
     }
+
     @AfterEach
     void tearDown() {
         driver.quit();
-        driver=null;
+        driver = null;
     }
 
     @Test
-    void shouldTestForm() {
+    void shouldTestForm() throws InterruptedException {
         // Загрузить страницу
-        driver.get ("http://localhost:9999");
-        // Поиск элементов
-        // Взаимодействие с элементами
+        driver.get("http://localhost:9999");
+        driver.findElement(By.cssSelector("[data-test-id=name] input")).sendKeys("Петров Петр");
+        driver.findElement(By.cssSelector("[data-test-id=phone] input")).sendKeys("+78002008002");
+        driver.findElement(By.cssSelector("[data-test-id=agreement]")).click();
+        driver.findElement(By.className("button")).click();
 
+        Thread.sleep(5000);
 
-//        throw new UnsupportedOperationException();
 
     }
 }
