@@ -28,8 +28,8 @@
 
   
 
-  <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=HiuAlfdUi15Obc8yX65D6dODndndirUgMMCED32DO3Scjoe63JRoP7RZla9VJjhDkm1A6sMZnDWuUb1Z_gcyuXnHt13cJqnCF6cOExOGT_1yeXCUJRwyL6fngZeYbQNL" charset="UTF-8"></script><script type="application/json" id="client-env">{"locale":"en","featureFlags":["turbo_experiment_risky","image_metric_tracking","geojson_azure_maps"]}</script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-2d8f83b5a430.js"></script>
+  <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=bbU8p2n1dOxqR5VBljoPvWpy38xA__NO9dtybs9jTbv3Q_rccyI28dhNA_3XsMqvrc-afLphYcTyfkpYOj53jcYAwraAyWgObQwTBsYfc6dtUQGv1oIadoDwe1_cOAjc" charset="UTF-8"></script><script type="application/json" id="client-env">{"locale":"en","featureFlags":["turbo_experiment_risky","image_metric_tracking","geojson_azure_maps"]}</script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-1f66267df848.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_stacktrace-parser_dist_stack-trace-parser_esm_js-node_modules_github_bro-a4c183-ae93d3fba59c.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_soft-nav_soft-nav_ts-5bbac172fb2f.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/environment-27e06165e415.js"></script>
@@ -98,7 +98,7 @@
   <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
 
 
-  <meta name="request-id" content="0DA9:0EB6:1FC235B:20415BC:649883CB" data-turbo-transient="true" /><meta name="html-safe-nonce" content="def02f71b5e939a6a7df49fb351a9de945800d281da8a5556a6c47fed7b53232" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9uZXRvbG9neS1jb2RlL2FxYS1ob21ld29ya3MvdHJlZS9tYXN0ZXIvd2ViIiwicmVxdWVzdF9pZCI6IjBEQTk6MEVCNjoxRkMyMzVCOjIwNDE1QkM6NjQ5ODgzQ0IiLCJ2aXNpdG9yX2lkIjoiMzkwNjUxNDkwMzM0NjgxNTAxOSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="502cd765bb30d4844cb040557177051868a2057e022c67dfa5a23a4ef431827c" data-turbo-transient="true" />
+  <meta name="request-id" content="36B4:0FBE:63999E6:6521876:6499655E" data-turbo-transient="true" /><meta name="html-safe-nonce" content="def02f71b5e939a6a7df49fb351a9de945800d281da8a5556a6c47fed7b53232" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9uZXRvbG9neS1jb2RlL2FxYS1ob21ld29ya3MvdHJlZS9tYXN0ZXIvd2ViIiwicmVxdWVzdF9pZCI6IjM2QjQ6MEZCRTo2Mzk5OUU2OjY1MjE4NzY6NjQ5OTY1NUUiLCJ2aXNpdG9yX2lkIjoiMzkwNjUxNDkwMzM0NjgxNTAxOSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="29fa46156ccad3503a6d275237f76661e0b75ecb3e4024e0a9885eaf1b429213" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:202597292" data-turbo-transient>
@@ -142,7 +142,7 @@
       <meta property="og:image" content="https://opengraph.githubassets.com/be27decb3a94e8b5ece4ae9fd7367b27c86b85f70c0fbb2eae3da40bc0c2fff3/netology-code/aqa-homeworks" /><meta property="og:image:alt" content="Contribute to netology-code/aqa-homeworks development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="aqa-homeworks/web/app-order.jar at master · netology-code/aqa-homeworks" /><meta property="og:url" content="https://github.com/netology-code/aqa-homeworks" /><meta property="og:description" content="Contribute to netology-code/aqa-homeworks development by creating an account on GitHub." />
       
 
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/127352228/ws?session=eyJ2IjoiVjMiLCJ1IjoxMjczNTIyMjgsInMiOjExNDQzODYzNDUsImMiOjMyOTY1NzMzMjIsInQiOjE2ODc3MTY4MTF9--64620c14a8b07f8943524f24067b181d13d3321a98ad9b202dc3a895e36f25a7" data-refresh-url="/_alive" data-session-id="b36a1ebc3a4541571ed706a29e63732389a46e6ce0a739050d8ad644da481c36">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/127352228/ws?session=eyJ2IjoiVjMiLCJ1IjoxMjczNTIyMjgsInMiOjExNDQzODYzNDUsImMiOjQyODgwMTUwODksInQiOjE2ODc3NzQ1NTh9--aa71c48450fad0e5a67d6140304ec164ae76d6a33d4b48ad706a44a042dfd52e" data-refresh-url="/_alive" data-session-id="b36a1ebc3a4541571ed706a29e63732389a46e6ce0a739050d8ad644da481c36">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-71e98f781d79.js">
 
 
@@ -156,10 +156,10 @@
     <meta name="enabled-features" content="TURBO_EXPERIMENT_RISKY,IMAGE_METRIC_TRACKING,GEOJSON_AZURE_MAPS">
 
 
-  <meta http-equiv="x-pjax-version" content="276c70f3e3247afd8dfe49f11b099f7c535144fde9e24695577b602b691f6c8a" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="f9762c56940c896bf86bb156b9f9baf72b47d610057e03b87fbbf123d71a1490" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="0db263f9a873141d8256f783c35f244c06d490aacc3b680f99794dd8fd59fb59" data-turbo-track="reload">
   <meta http-equiv="x-pjax-css-version" content="3fd806723b8d7d3ea18a20e5467eba81c21e72f04295f95c6f32f9b9dcdbbc29" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="03dbb100eac5631d183fbbb2139fbda172ff52bdc3ac7e45a4e4873737062379" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="7d0397aa96503eb2ac82d83be565563711acbe75ca8a8d7824078132dc42b0e4" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
@@ -217,17 +217,17 @@
           <deferred-side-panel data-url="/_side-panels/global">
   <include-fragment data-target="deferred-side-panel.fragment">
       
-  <button aria-label="Open global navigation menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-1623fbba-6e53-4b9c-bfea-98ee85cfd45e" id="dialog-show-dialog-1623fbba-6e53-4b9c-bfea-98ee85cfd45e" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-bg-transparent p-0 color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-three-bars Button-visual">
+  <button aria-label="Open global navigation menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-2513807c-463b-4a0a-8a61-542379f78ebd" id="dialog-show-dialog-2513807c-463b-4a0a-8a61-542379f78ebd" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-bg-transparent p-0 color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-three-bars Button-visual">
     <path d="M1 2.75A.75.75 0 0 1 1.75 2h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 2.75Zm0 5A.75.75 0 0 1 1.75 7h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 7.75ZM1.75 12h12.5a.75.75 0 0 1 0 1.5H1.75a.75.75 0 0 1 0-1.5Z"></path>
 </svg>
 </button>  
 
 <div class="Overlay--hidden Overlay-backdrop--side Overlay-backdrop--placement-left" data-modal-dialog-overlay>
-  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-1623fbba-6e53-4b9c-bfea-98ee85cfd45e" aria-modal="true" aria-disabled="true" aria-describedby="dialog-1623fbba-6e53-4b9c-bfea-98ee85cfd45e-title dialog-1623fbba-6e53-4b9c-bfea-98ee85cfd45e-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
+  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-2513807c-463b-4a0a-8a61-542379f78ebd" aria-modal="true" aria-disabled="true" aria-describedby="dialog-2513807c-463b-4a0a-8a61-542379f78ebd-title dialog-2513807c-463b-4a0a-8a61-542379f78ebd-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
     <div styles="flex-direction: row;" data-view-component="true" class="Overlay-header">
   <div class="Overlay-headerContentWrap">
     <div class="Overlay-titleWrap">
-      <h1 class="Overlay-title sr-only" id="dialog-1623fbba-6e53-4b9c-bfea-98ee85cfd45e-title">
+      <h1 class="Overlay-title sr-only" id="dialog-2513807c-463b-4a0a-8a61-542379f78ebd-title">
         Global navigation
       </h1>
             <div data-view-component="true" class="d-flex">
@@ -238,7 +238,7 @@
 </div></div>
     </div>
     <div class="Overlay-actionWrap">
-      <button data-close-dialog-id="dialog-1623fbba-6e53-4b9c-bfea-98ee85cfd45e" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+      <button data-close-dialog-id="dialog-2513807c-463b-4a0a-8a61-542379f78ebd" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg></button>
     </div>
@@ -252,7 +252,7 @@
           
 <li item_id="general" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-hotkey="g d" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;target&quot;:&quot;HOME&quot;,&quot;originating_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;user_id&quot;:127352228}}" hydro-click-hmac="2f56ff2c8620e173a3c583f1bdac2139dfb1a3d19ed0ab061ee1b179adb42c7b" id="item-ceefc66b-e0d6-4899-9326-ad1bfcce8c4f" href="/dashboard" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g d" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;target&quot;:&quot;HOME&quot;,&quot;originating_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;user_id&quot;:127352228}}" hydro-click-hmac="2f56ff2c8620e173a3c583f1bdac2139dfb1a3d19ed0ab061ee1b179adb42c7b" id="item-2c08bfd5-70c1-41dd-ba8e-2dc4b9dd7a63" href="/dashboard" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-home">
     <path d="M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z"></path>
@@ -270,7 +270,7 @@
           
 <li item_id="personal_info" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-hotkey="g i" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;target&quot;:&quot;ISSUES&quot;,&quot;originating_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;user_id&quot;:127352228}}" hydro-click-hmac="0d4c4ecb654883bdb13aea49923c27452532c1764cb756e527764fd50720673c" id="item-cba89fc8-121f-4c3c-8a58-61129e57690b" href="/issues" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g i" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;target&quot;:&quot;ISSUES&quot;,&quot;originating_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;user_id&quot;:127352228}}" hydro-click-hmac="0d4c4ecb654883bdb13aea49923c27452532c1764cb756e527764fd50720673c" id="item-2d969cd1-0865-415c-b93b-ad1c8507a2c9" href="/issues" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -288,7 +288,7 @@
           
 <li item_id="password" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-hotkey="g p" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;target&quot;:&quot;PULL_REQUESTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;user_id&quot;:127352228}}" hydro-click-hmac="d611567d16fbb8fc33324b0447ad6e737ab89e9cb9b9d1d0cd4e915c4d9d4541" id="item-63fd20d2-0660-4dc0-9071-511e8c7e447f" href="/pulls" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g p" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;target&quot;:&quot;PULL_REQUESTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;user_id&quot;:127352228}}" hydro-click-hmac="d611567d16fbb8fc33324b0447ad6e737ab89e9cb9b9d1d0cd4e915c4d9d4541" id="item-4c5e10a1-d55d-402d-9b6a-05e8abdd2713" href="/pulls" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -306,7 +306,7 @@
           
 <li item_id="billing" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;target&quot;:&quot;DISCUSSIONS&quot;,&quot;originating_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;user_id&quot;:127352228}}" hydro-click-hmac="5a532a9f3adcdd14f74d2afbc92baeccd45376e5b4236327205972837984e206" id="item-32f493af-fd27-4a05-96f3-6b38cc742dd1" href="/discussions" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;target&quot;:&quot;DISCUSSIONS&quot;,&quot;originating_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;user_id&quot;:127352228}}" hydro-click-hmac="5a532a9f3adcdd14f74d2afbc92baeccd45376e5b4236327205972837984e206" id="item-5e0d577f-82a4-4eac-a0d6-6c808d1f2d33" href="/discussions" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment-discussion">
     <path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path>
@@ -340,7 +340,7 @@
           
 <li item_id="general" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;target&quot;:&quot;EXPLORE&quot;,&quot;originating_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;user_id&quot;:127352228}}" hydro-click-hmac="aa4f86e608e57f822ca4614e43161f390354a356ae76c70b048292006873e250" id="item-5488aaee-76dc-4e14-bede-ec9da2939291" href="/explore" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;target&quot;:&quot;EXPLORE&quot;,&quot;originating_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;user_id&quot;:127352228}}" hydro-click-hmac="aa4f86e608e57f822ca4614e43161f390354a356ae76c70b048292006873e250" id="item-02e8e2df-760f-423a-bb27-fa244c658204" href="/explore" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-telescope">
     <path d="M14.184 1.143v-.001l1.422 2.464a1.75 1.75 0 0 1-.757 2.451L3.104 11.713a1.75 1.75 0 0 1-2.275-.702l-.447-.775a1.75 1.75 0 0 1 .53-2.32L11.682.573a1.748 1.748 0 0 1 2.502.57Zm-4.709 9.32h-.001l2.644 3.863a.75.75 0 1 1-1.238.848l-1.881-2.75v2.826a.75.75 0 0 1-1.5 0v-2.826l-1.881 2.75a.75.75 0 1 1-1.238-.848l2.049-2.992a.746.746 0 0 1 .293-.253l1.809-.87a.749.749 0 0 1 .944.252ZM9.436 3.92h-.001l-4.97 3.39.942 1.63 5.42-2.61Zm3.091-2.108h.001l-1.85 1.26 1.505 2.605 2.016-.97a.247.247 0 0 0 .13-.151.247.247 0 0 0-.022-.199l-1.422-2.464a.253.253 0 0 0-.161-.119.254.254 0 0 0-.197.038ZM1.756 9.157a.25.25 0 0 0-.075.33l.447.775a.25.25 0 0 0 .325.1l1.598-.769-.83-1.436-1.465 1Z"></path>
@@ -358,7 +358,7 @@
           
 <li item_id="general" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;target&quot;:&quot;MARKETPLACE&quot;,&quot;originating_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;user_id&quot;:127352228}}" hydro-click-hmac="10b2b542f80cea2a96c029650d8c928a5634f2d541a6626e1f9ec6493d8a58a1" id="item-025ccdf3-3926-4bd7-b0c0-0ceb0f85eeef" href="/marketplace" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;target&quot;:&quot;MARKETPLACE&quot;,&quot;originating_url&quot;:&quot;https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar&quot;,&quot;user_id&quot;:127352228}}" hydro-click-hmac="10b2b542f80cea2a96c029650d8c928a5634f2d541a6626e1f9ec6493d8a58a1" id="item-15fe84f7-c634-4275-ab03-4611f66d5fdc" href="/marketplace" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-gift">
     <path d="M2 2.75A2.75 2.75 0 0 1 4.75 0c.983 0 1.873.42 2.57 1.232.268.318.497.668.68 1.042.183-.375.411-.725.68-1.044C9.376.42 10.266 0 11.25 0a2.75 2.75 0 0 1 2.45 4h.55c.966 0 1.75.784 1.75 1.75v2c0 .698-.409 1.301-1 1.582v4.918A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V9.332C.409 9.05 0 8.448 0 7.75v-2C0 4.784.784 4 1.75 4h.55c-.192-.375-.3-.8-.3-1.25ZM7.25 9.5H2.5v4.75c0 .138.112.25.25.25h4.5Zm1.5 0v5h4.5a.25.25 0 0 0 .25-.25V9.5Zm0-4V8h5.5a.25.25 0 0 0 .25-.25v-2a.25.25 0 0 0-.25-.25Zm-7 0a.25.25 0 0 0-.25.25v2c0 .138.112.25.25.25h5.5V5.5h-5.5Zm3-4a1.25 1.25 0 0 0 0 2.5h2.309c-.233-.818-.542-1.401-.878-1.793-.43-.502-.915-.707-1.431-.707ZM8.941 4h2.309a1.25 1.25 0 0 0 0-2.5c-.516 0-1 .205-1.43.707-.337.392-.646.975-.879 1.793Z"></path>
@@ -376,7 +376,7 @@
           
 <li item_id="feedback" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-022cf47b-eb21-4881-b32f-bde5eeaebe3f" href="https://gh.io/navigation-update" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-bb1eada9-2a58-4051-8f80-f83783471cad" href="https://gh.io/navigation-update" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment-discussion">
     <path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path>
@@ -585,7 +585,7 @@
 </svg>
 </template>
 
-<qbsearch-input class="search-input" data-scope="repo:netology-code/aqa-homeworks" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="Mpd2atJfTCfX4Xp8xRQZDxe2RCHwLL3KBeRqFapBByVJQkUZb5FOFHdh0Htm77yYC6RBW_3BOr7YaOu7OJXibQ" data-max-custom-scopes="10" data-header-redesign-enabled="true" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="netology-code/aqa-homeworks" data-current-org="netology-code" data-current-owner="">
+<qbsearch-input class="search-input" data-scope="repo:netology-code/aqa-homeworks" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="Gn81BhSA1n5RDjbikrBjvSlG7dBuvpuuTK5qRy16TO5hqgZ1qU7UTfGOnOUxS8YqNVToqmNTHNqRIuvpv66ppg" data-max-custom-scopes="10" data-header-redesign-enabled="true" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="netology-code/aqa-homeworks" data-current-org="netology-code" data-current-owner="">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center height-auto color-bg-transparent border-0 color-fg-subtle mx-0"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -634,7 +634,7 @@
 </svg>
       </button>
 
-      <tool-tip id="tooltip-3c39d959-a77e-4daa-8d27-e097d96b5202" for="AppHeader-commandPalette-button" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Command palette</tool-tip>
+      <tool-tip id="tooltip-fb7dbd7a-3b22-4d80-91d9-a25f0697b308" for="AppHeader-commandPalette-button" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Command palette</tool-tip>
   </div>
 </div>
 
@@ -814,7 +814,7 @@
     </div>
   </div>
 </div>
-      <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YVleKIf4NBPab70zbsL76eVzJOxyrl5huwjUu2uewNl73ozehwg5jzOlHhUn2sQXu-z2PUkuIJ_23mNmkAXreQ" />
+      <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="vsPE9RosYVliN1vVNgKpWAaa7-1nNwALQMwWiD6nGWakRBYDGtxsxYv9-PN_GpamWAU9PFy3fvUNGqFVxTwyxg" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -849,7 +849,7 @@
       <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wFuhMpOe878x_8-o0UK7WjZPX6mZDb4fEu3QvoCYq0KS10SkZjx0T0h0e-zjuldgbo_zdsG1kAlijql8YOi-Cw" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gvxdMt-Wr0QfeLhLLk5i1PuTeFxODelhNfkje4EiCiHQcLikKjQotGbzDA8cto7uo1PUgxa1x3dFmlq5YVIfaA" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -867,7 +867,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" value="OsiAH4PmdaK9N0dvKbWGQjJQiDwULPBgEvj9KeyRK0tlJ1eoqma9WGRCu7c7rao_2_3oK8_Y69lZJvbx_vSp2Q" data-csrf="true" />
+              <input type="hidden" value="6fWbRbk_KPbGxB1DPKI98L6D1G1liHUM4ox5FO2tFzS2GkzykL_gDB-x4ZsuuhGNVy60er58brWpUnLM_8iVpg" data-csrf="true" />
             </auto-check>
           </div>
 
@@ -903,7 +903,7 @@
 </modal-dialog></div>
     </custom-scopes>
   </div>
-</qbsearch-input><input type="hidden" value="_WtKYGYU6C1tKfbf-5ehr_tcvNIaVj-32E4QhoLj20EYd2qYUiwnK3h1jl6UFcc_fFy-5bENL2qjlj-tEKbmdg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+</qbsearch-input><input type="hidden" value="dGa6MP8fg61ryDG-fVZLYZF9WAxC8IWo-_9luvENIh-ReprIyydMq36UST8S1C3xFn1aO-mrlXWAJ0qRY0gfKA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
 
           </div>
 
@@ -920,7 +920,7 @@
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg></span>
     </span>
-</button>  <tool-tip id="tooltip-47552543-860e-4e44-9642-abe7f656fa17" for="global-create-menu-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Create new...</tool-tip>
+</button>  <tool-tip id="tooltip-a8742e65-7232-4878-928c-93a75fb6e763" for="global-create-menu-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Create new...</tool-tip>
 </div>
 
 <anchored-position id="global-create-menu-overlay" anchor="global-create-menu-button" align="end" side="outside-bottom" anchor-offset="normal" popover="auto" aria-label="Menu" data-view-component="true" class="Overlay Overlay--size-auto">
@@ -930,7 +930,7 @@
   <ul aria-labelledby="global-create-menu-button" id="global-create-menu-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new repository&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/new" tabindex="-1" id="item-7c591b0f-2646-43e8-bb1f-dc2b55dd3a37" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/new" tabindex="-1" id="item-b10efda3-34af-4a30-baa5-2a922c368fae" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo">
     <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
@@ -946,7 +946,7 @@
 </li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;import repository&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/new/import" tabindex="-1" id="item-a656b046-114d-4cfa-b557-c8b96f59cc38" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/new/import" tabindex="-1" id="item-eed1b441-83b1-4abd-9f91-fa5d3c434a15" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-push">
     <path d="M1 2.5A2.5 2.5 0 0 1 3.5 0h8.75a.75.75 0 0 1 .75.75v3.5a.75.75 0 0 1-1.5 0V1.5h-8a1 1 0 0 0-1 1v6.708A2.493 2.493 0 0 1 3.5 9h3.25a.75.75 0 0 1 0 1.5H3.5a1 1 0 0 0 0 2h5.75a.75.75 0 0 1 0 1.5H3.5A2.5 2.5 0 0 1 1 11.5Zm13.23 7.79h-.001l-1.224-1.224v6.184a.75.75 0 0 1-1.5 0V9.066L10.28 10.29a.75.75 0 0 1-1.06-1.061l2.505-2.504a.75.75 0 0 1 1.06 0L15.29 9.23a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018Z"></path>
@@ -963,7 +963,7 @@
       <li role="presentation" aria-hidden="true" data-view-component="true" class="ActionList-sectionDivider"></li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new codespace&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/codespaces/new" tabindex="-1" id="item-23ae3dfd-2073-446e-83d1-15b6fe8581c9" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/codespaces/new" tabindex="-1" id="item-4184eb46-f72b-4585-9ff0-7159f8ac5ae1" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-codespaces">
     <path d="M0 11.25c0-.966.784-1.75 1.75-1.75h12.5c.966 0 1.75.784 1.75 1.75v3A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm2-9.5C2 .784 2.784 0 3.75 0h8.5C13.216 0 14 .784 14 1.75v5a1.75 1.75 0 0 1-1.75 1.75h-8.5A1.75 1.75 0 0 1 2 6.75Zm1.75-.25a.25.25 0 0 0-.25.25v5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-5a.25.25 0 0 0-.25-.25Zm-2 9.5a.25.25 0 0 0-.25.25v3c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-3a.25.25 0 0 0-.25-.25Z"></path><path d="M7 12.75a.75.75 0 0 1 .75-.75h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1-.75-.75Zm-4 0a.75.75 0 0 1 .75-.75h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1-.75-.75Z"></path>
@@ -979,7 +979,7 @@
 </li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new gist&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="https://gist.github.com/" tabindex="-1" id="item-2e68b844-7d12-40e3-b022-7255a1511734" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="https://gist.github.com/" tabindex="-1" id="item-497c8daa-b610-498f-b88b-7639bfc08003" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -996,7 +996,7 @@
       <li role="presentation" aria-hidden="true" data-view-component="true" class="ActionList-sectionDivider"></li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new organization&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/account/organizations/new" tabindex="-1" id="item-9a567127-7477-4629-9a72-fa7fb1efdb85" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/account/organizations/new" tabindex="-1" id="item-75361685-7512-48f3-8076-f35d11e7b44c" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-organization">
     <path d="M1.75 16A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5c0 .085-.006.168-.018.25h2.268a.25.25 0 0 0 .25-.25V8.285a.25.25 0 0 0-.111-.208l-1.055-.703a.749.749 0 1 1 .832-1.248l1.055.703c.487.325.779.871.779 1.456v5.965A1.75 1.75 0 0 1 14.25 16h-3.5a.766.766 0 0 1-.197-.026c-.099.017-.2.026-.303.026h-3a.75.75 0 0 1-.75-.75V14h-1v1.25a.75.75 0 0 1-.75.75Zm-.25-1.75c0 .138.112.25.25.25H4v-1.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 .75.75v1.25h2.25a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25ZM3.75 6h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 3.75A.75.75 0 0 1 3.75 3h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 3.75Zm4 3A.75.75 0 0 1 7.75 6h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 7 6.75ZM7.75 3h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 9.75A.75.75 0 0 1 3.75 9h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 9.75ZM7.75 9h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5Z"></path>
@@ -1017,23 +1017,23 @@
 </action-menu>
 
           <div data-view-component="true" class="Button-withTooltip">
-  <a href="/issues" id="icon-button-19463c86-705f-4acf-95dc-433b33f68156" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened Button-visual">
+  <a href="/issues" id="icon-button-14f85950-1ea1-4d00-b22c-9916fdaeed4c" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened Button-visual">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
 </svg>
-</a>  <tool-tip id="tooltip-2616406f-cc35-462c-9b47-08f566ab45a1" for="icon-button-19463c86-705f-4acf-95dc-433b33f68156" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Issues</tool-tip>
+</a>  <tool-tip id="tooltip-81c1418f-0439-48e9-8621-7208cc5869eb" for="icon-button-14f85950-1ea1-4d00-b22c-9916fdaeed4c" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Issues</tool-tip>
 </div>
           <div data-view-component="true" class="Button-withTooltip">
-  <a href="/pulls" id="icon-button-a44bcd36-46d8-434c-8b90-00fba94c6f59" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request Button-visual">
+  <a href="/pulls" id="icon-button-12d41414-9444-45ae-8fb0-672f46c56378" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request Button-visual">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
 </svg>
-</a>  <tool-tip id="tooltip-41a170bd-122d-4c6d-a522-9ba7a033dd47" for="icon-button-a44bcd36-46d8-434c-8b90-00fba94c6f59" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Pull requests</tool-tip>
+</a>  <tool-tip id="tooltip-5ef8239b-16ce-45a6-90b1-55470cd8a20e" for="icon-button-12d41414-9444-45ae-8fb0-672f46c56378" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Pull requests</tool-tip>
 </div>
         </div>
 
         <div class="mr-0">
           
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTI3MzUyMjI4IiwidCI6MTY4NzcxNjgxMX0=--f16f702f321744b22d0fe2747c43e373c56b716886ed17aa95ce1a5dd251639b" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-header-redesign-enabled="true" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTI3MzUyMjI4IiwidCI6MTY4Nzc3NDU1OH0=--68cbe1de0490b1bc06ac969b3b8741954ba21db57b9615ed2a2df6412378d8c7" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-header-redesign-enabled="true" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="AppHeader-button"
 
@@ -1056,7 +1056,7 @@
 </svg>
   </a>
 
-    <tool-tip data-target="notification-indicator.tooltip" id="tooltip-5111b1c5-a179-4c23-bf0e-d7cfb6abf34f" for="AppHeader-notifications-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Notifications</tool-tip>
+    <tool-tip data-target="notification-indicator.tooltip" id="tooltip-9df2c72a-0af2-4359-ab32-eaaca8ff0ebc" for="AppHeader-notifications-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Notifications</tool-tip>
 </notification-indicator>
         </div>
 
@@ -1066,17 +1066,17 @@
           <deferred-side-panel data-url="/_side-panels/user?memex_enabled=true&amp;repository=aqa-homeworks&amp;user=Kanger79&amp;user_can_create_organizations=true&amp;user_id=127352228">
   <include-fragment data-target="deferred-side-panel.fragment">
       <user-drawer-side-panel>
-      <button aria-label="Open user account menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-42aab9f8-23a8-4289-ba5c-faab9874ad15" id="dialog-show-dialog-42aab9f8-23a8-4289-ba5c-faab9874ad15" type="button" data-view-component="true" class="AppHeader-logo Button--invisible Button--medium Button Button--invisible-noVisuals color-bg-transparent p-0">    <span class="Button-content">
+      <button aria-label="Open user account menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-5b26c675-8a99-4a37-9cd3-2038be12f3c7" id="dialog-show-dialog-5b26c675-8a99-4a37-9cd3-2038be12f3c7" type="button" data-view-component="true" class="AppHeader-logo Button--invisible Button--medium Button Button--invisible-noVisuals color-bg-transparent p-0">    <span class="Button-content">
       <span class="Button-label"><img src="https://avatars.githubusercontent.com/u/127352228?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle" /></span>
     </span>
 </button>  
 
 <div class="Overlay--hidden Overlay-backdrop--side Overlay-backdrop--placement-right" data-modal-dialog-overlay>
-  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-42aab9f8-23a8-4289-ba5c-faab9874ad15" aria-modal="true" aria-disabled="true" aria-describedby="dialog-42aab9f8-23a8-4289-ba5c-faab9874ad15-title dialog-42aab9f8-23a8-4289-ba5c-faab9874ad15-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
+  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-5b26c675-8a99-4a37-9cd3-2038be12f3c7" aria-modal="true" aria-disabled="true" aria-describedby="dialog-5b26c675-8a99-4a37-9cd3-2038be12f3c7-title dialog-5b26c675-8a99-4a37-9cd3-2038be12f3c7-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
     <div styles="flex-direction: row;" data-view-component="true" class="Overlay-header">
   <div class="Overlay-headerContentWrap">
     <div class="Overlay-titleWrap">
-      <h1 class="Overlay-title sr-only" id="dialog-42aab9f8-23a8-4289-ba5c-faab9874ad15-title">
+      <h1 class="Overlay-title sr-only" id="dialog-5b26c675-8a99-4a37-9cd3-2038be12f3c7-title">
         Account menu
       </h1>
             <div data-view-component="true" class="d-flex">
@@ -1092,7 +1092,7 @@
 </div>
     </div>
     <div class="Overlay-actionWrap">
-      <button data-close-dialog-id="dialog-42aab9f8-23a8-4289-ba5c-faab9874ad15" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+      <button data-close-dialog-id="dialog-5b26c675-8a99-4a37-9cd3-2038be12f3c7" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg></button>
     </div>
@@ -1106,7 +1106,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-39443dfe-2d4c-4e6d-a5bd-0885ae87c099" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-5635b629-a7fd-451e-89b7-6c4c12fe528a" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1133,7 +1133,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-7ce01747-72c3-479e-b835-f4c791e9a87b" href="https://github.com/Kanger79" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-64e53097-1b3a-4cda-8240-efca4f38ab5d" href="https://github.com/Kanger79" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-person">
     <path d="M10.561 8.073a6.005 6.005 0 0 1 3.432 5.142.75.75 0 1 1-1.498.07 4.5 4.5 0 0 0-8.99 0 .75.75 0 0 1-1.498-.07 6.004 6.004 0 0 1 3.431-5.142 3.999 3.999 0 1 1 5.123 0ZM10.5 5a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path>
@@ -1153,7 +1153,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-a38c35fc-76ab-4c46-8d83-9b959e08b837" href="/Kanger79?tab=repositories" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-06b3dafe-c21b-48bb-8729-f85b5a6acde2" href="/Kanger79?tab=repositories" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo">
     <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
@@ -1171,7 +1171,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-739f7ab8-b88c-4ac6-ac8f-a717a6850f87" href="/Kanger79?tab=projects" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-76708123-8c9a-4847-aef0-2c2fd6766666" href="/Kanger79?tab=projects" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project">
     <path d="M1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0ZM1.5 1.75v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25ZM11.75 3a.75.75 0 0 1 .75.75v7.5a.75.75 0 0 1-1.5 0v-7.5a.75.75 0 0 1 .75-.75Zm-8.25.75a.75.75 0 0 1 1.5 0v5.5a.75.75 0 0 1-1.5 0ZM8 3a.75.75 0 0 1 .75.75v3.5a.75.75 0 0 1-1.5 0v-3.5A.75.75 0 0 1 8 3Z"></path>
@@ -1189,7 +1189,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-bdf759b9-b45f-48f5-9b88-51ccd94b0f43" href="/codespaces" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-cf10fa0f-3485-4662-baf2-5762c6a316b8" href="/codespaces" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-codespaces">
     <path d="M0 11.25c0-.966.784-1.75 1.75-1.75h12.5c.966 0 1.75.784 1.75 1.75v3A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm2-9.5C2 .784 2.784 0 3.75 0h8.5C13.216 0 14 .784 14 1.75v5a1.75 1.75 0 0 1-1.75 1.75h-8.5A1.75 1.75 0 0 1 2 6.75Zm1.75-.25a.25.25 0 0 0-.25.25v5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-5a.25.25 0 0 0-.25-.25Zm-2 9.5a.25.25 0 0 0-.25.25v3c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-3a.25.25 0 0 0-.25-.25Z"></path><path d="M7 12.75a.75.75 0 0 1 .75-.75h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1-.75-.75Zm-4 0a.75.75 0 0 1 .75-.75h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1-.75-.75Z"></path>
@@ -1207,7 +1207,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-0325e95b-144d-4cb3-b1b9-cb608bb2ff72" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-14143f83-ba20-4bbc-b8ac-5bdddb36790f" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1232,7 +1232,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-47b7f237-5618-4413-a878-7dbb83a6343f" href="/Kanger79?tab=stars" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-219a6620-8c01-4509-a2ba-c4d447dff193" href="/Kanger79?tab=stars" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
@@ -1250,7 +1250,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-0f7e8648-45e2-4ebf-9aa2-96641297bb8f" href="/sponsors/accounts" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-3d58b515-35e4-45e8-9657-db18b0a681bb" href="/sponsors/accounts" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-heart">
     <path d="m8 14.25.345.666a.75.75 0 0 1-.69 0l-.008-.004-.018-.01a7.152 7.152 0 0 1-.31-.17 22.055 22.055 0 0 1-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.066 22.066 0 0 1-3.744 2.584l-.018.01-.006.003h-.002ZM4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.58 20.58 0 0 0 8 13.393a20.58 20.58 0 0 0 3.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.749.749 0 0 1-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5Z"></path>
@@ -1268,7 +1268,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-2b6fa3de-6598-4a54-a270-fa10e2771782" href="https://gist.github.com/mine" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-76fcd3e4-c9e7-4b86-ae67-73092794490e" href="https://gist.github.com/mine" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code-square">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25Zm7.47 3.97a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L10.69 8 9.22 6.53a.75.75 0 0 1 0-1.06ZM6.78 6.53 5.31 8l1.47 1.47a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215l-2-2a.75.75 0 0 1 0-1.06l2-2a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1288,7 +1288,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-6dd16e33-9f40-425f-82a5-fe0c8cc17881" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-9f841c2c-3444-424e-84eb-19da7e378329" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1313,7 +1313,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-6a4869f5-502a-48ec-a21f-803d9f8ab23c" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-6ed62146-d4ab-4e0e-b6e7-d4e421612fb1" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1338,7 +1338,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-ecd36fb4-fde0-4ab3-a8c5-b0a7ccdf51c2" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-4773e4b5-1178-426d-afa2-707ae10c2922" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1363,7 +1363,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-456babb3-bdec-456c-b413-6e7070073b43" href="/settings/profile" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-3e4dbd59-602b-4e3b-81bd-124dfbe8d995" href="/settings/profile" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-gear">
     <path d="M8 0a8.2 8.2 0 0 1 .701.031C9.444.095 9.99.645 10.16 1.29l.288 1.107c.018.066.079.158.212.224.231.114.454.243.668.386.123.082.233.09.299.071l1.103-.303c.644-.176 1.392.021 1.82.63.27.385.506.792.704 1.218.315.675.111 1.422-.364 1.891l-.814.806c-.049.048-.098.147-.088.294.016.257.016.515 0 .772-.01.147.038.246.088.294l.814.806c.475.469.679 1.216.364 1.891a7.977 7.977 0 0 1-.704 1.217c-.428.61-1.176.807-1.82.63l-1.102-.302c-.067-.019-.177-.011-.3.071a5.909 5.909 0 0 1-.668.386c-.133.066-.194.158-.211.224l-.29 1.106c-.168.646-.715 1.196-1.458 1.26a8.006 8.006 0 0 1-1.402 0c-.743-.064-1.289-.614-1.458-1.26l-.289-1.106c-.018-.066-.079-.158-.212-.224a5.738 5.738 0 0 1-.668-.386c-.123-.082-.233-.09-.299-.071l-1.103.303c-.644.176-1.392-.021-1.82-.63a8.12 8.12 0 0 1-.704-1.218c-.315-.675-.111-1.422.363-1.891l.815-.806c.05-.048.098-.147.088-.294a6.214 6.214 0 0 1 0-.772c.01-.147-.038-.246-.088-.294l-.815-.806C.635 6.045.431 5.298.746 4.623a7.92 7.92 0 0 1 .704-1.217c.428-.61 1.176-.807 1.82-.63l1.102.302c.067.019.177.011.3-.071.214-.143.437-.272.668-.386.133-.066.194-.158.211-.224l.29-1.106C6.009.645 6.556.095 7.299.03 7.53.01 7.764 0 8 0Zm-.571 1.525c-.036.003-.108.036-.137.146l-.289 1.105c-.147.561-.549.967-.998 1.189-.173.086-.34.183-.5.29-.417.278-.97.423-1.529.27l-1.103-.303c-.109-.03-.175.016-.195.045-.22.312-.412.644-.573.99-.014.031-.021.11.059.19l.815.806c.411.406.562.957.53 1.456a4.709 4.709 0 0 0 0 .582c.032.499-.119 1.05-.53 1.456l-.815.806c-.081.08-.073.159-.059.19.162.346.353.677.573.989.02.03.085.076.195.046l1.102-.303c.56-.153 1.113-.008 1.53.27.161.107.328.204.501.29.447.222.85.629.997 1.189l.289 1.105c.029.109.101.143.137.146a6.6 6.6 0 0 0 1.142 0c.036-.003.108-.036.137-.146l.289-1.105c.147-.561.549-.967.998-1.189.173-.086.34-.183.5-.29.417-.278.97-.423 1.529-.27l1.103.303c.109.029.175-.016.195-.045.22-.313.411-.644.573-.99.014-.031.021-.11-.059-.19l-.815-.806c-.411-.406-.562-.957-.53-1.456a4.709 4.709 0 0 0 0-.582c-.032-.499.119-1.05.53-1.456l.815-.806c.081-.08.073-.159.059-.19a6.464 6.464 0 0 0-.573-.989c-.02-.03-.085-.076-.195-.046l-1.102.303c-.56.153-1.113.008-1.53-.27a4.44 4.44 0 0 0-.501-.29c-.447-.222-.85-.629-.997-1.189l-.289-1.105c-.029-.11-.101-.143-.137-.146a6.6 6.6 0 0 0-1.142 0ZM11 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0ZM9.5 8a1.5 1.5 0 1 0-3.001.001A1.5 1.5 0 0 0 9.5 8Z"></path>
@@ -1383,7 +1383,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-8193fc58-9073-4a33-afdf-e861a29ae05b" href="https://docs.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-8c36d994-5ba6-42ca-8e88-9157c1f427dc" href="https://docs.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book">
     <path d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z"></path>
@@ -1401,7 +1401,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-94013c94-4063-4506-93d4-bd73151ad9f6" href="https://support.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-cabf2353-c7dd-4328-a823-56a162d372fc" href="https://support.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
     <path d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"></path>
@@ -1421,7 +1421,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-f159661f-49cf-427d-a042-cc6e24ecc3a1" href="/logout" data-view-component="true" class="ActionListContent">
+    <a id="item-9b285456-8bc6-41fc-b5fa-80792d77479e" href="/logout" data-view-component="true" class="ActionListContent">
       
         <span data-view-component="true" class="ActionListItem-label">
           Sign out
@@ -1603,7 +1603,7 @@
 
 
     
-    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTI3MzUyMjI4IiwidCI6MTY4NzcxNjgxMX0=--f16f702f321744b22d0fe2747c43e373c56b716886ed17aa95ce1a5dd251639b" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTI3MzUyMjI4IiwidCI6MTY4Nzc3NDU1OH0=--68cbe1de0490b1bc06ac969b3b8741954ba21db57b9615ed2a2df6412378d8c7" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
@@ -1777,7 +1777,7 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path d="M2.343 13.657A8 8 0 1 1 13.658 2.343 8 8 0 0 1 2.343 13.657ZM6.03 4.97a.751.751 0 0 0-1.042.018.751.751 0 0 0-.018 1.042L6.94 8 4.97 9.97a.749.749 0 0 0 .326 1.275.749.749 0 0 0 .734-.215L8 9.06l1.97 1.97a.749.749 0 0 0 1.275-.326.749.749 0 0 0-.215-.734L9.06 8l1.97-1.97a.749.749 0 0 0-.326-1.275.749.749 0 0 0-.734.215L8 6.94Z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-a7342965-6001-4bcb-bd6e-78c84f86dd65" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-eb7d821d-0216-4318-b062-a611d2c68d97" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
@@ -2586,7 +2586,7 @@
   data-alternate="false"
 >
   
-  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":true,"fileTree":{"web":{"items":[{"name":"pic","path":"web/pic","contentType":"directory"},{"name":"README.md","path":"web/README.md","contentType":"file"},{"name":"app-order.jar","path":"web/app-order.jar","contentType":"file"},{"name":"selectors.md","path":"web/selectors.md","contentType":"file"}],"totalCount":4},"":{"items":[{"name":"api-ci","path":"api-ci","contentType":"directory"},{"name":"basics","path":"basics","contentType":"directory"},{"name":"bdd","path":"bdd","contentType":"directory"},{"name":"docker","path":"docker","contentType":"directory"},{"name":"patterns","path":"patterns","contentType":"directory"},{"name":"pic","path":"pic","contentType":"directory"},{"name":"reporting","path":"reporting","contentType":"directory"},{"name":"selenide","path":"selenide","contentType":"directory"},{"name":"sql","path":"sql","contentType":"directory"},{"name":"summary","path":"summary","contentType":"directory"},{"name":"web","path":"web","contentType":"directory"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"idea-installation.md","path":"idea-installation.md","contentType":"file"},{"name":"notWorkingAppveyor.md","path":"notWorkingAppveyor.md","contentType":"file"},{"name":"report-requirements.md","path":"report-requirements.md","contentType":"file"}],"totalCount":16}},"fileTreeProcessingTime":8.061147,"foldersToFetch":[],"reducedMotionEnabled":"system","repo":{"id":202597292,"defaultBranch":"aqa-55","name":"aqa-homeworks","ownerLogin":"netology-code","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2019-08-15T22:09:15.000+03:00","ownerAvatar":"https://avatars.githubusercontent.com/u/25052038?v=4","public":true,"private":false,"isOrgOwned":true},"refInfo":{"name":"master","listCacheKey":"v0:1677764368.630646","canEdit":true,"refType":"branch","currentOid":"df7a638f6cfedf34711e088c327d1c8cc378c884"},"path":"web/app-order.jar","currentUser":{"id":127352228,"login":"Kanger79","userEmail":"dmitrykanger@yandex.ru"},"blob":{"rawBlob":"","colorizedLines":null,"stylingDirectives":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/netology-code/aqa-homeworks/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":false,"repoAlertsPath":"/netology-code/aqa-homeworks/security/dependabot","repoSecurityAndAnalysisPath":"/netology-code/aqa-homeworks/settings/security_analysis","repoOwnerIsOrg":true,"currentUserCanAdminRepo":false},"displayName":"app-order.jar","displayUrl":"https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar?raw=true","headerInfo":{"blobSize":"9.79 MB","deleteInfo":{"deletePath":"https://github.com/netology-code/aqa-homeworks/delete/master/web/app-order.jar","deleteTooltip":"Fork this repository and delete the file"},"editInfo":{"editTooltip":"Fork this repository and edit the file"},"ghDesktopPath":"https://desktop.github.com","gitLfsPath":null,"onBranch":true,"shortPath":"309cded","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fnetology-code%2Faqa-homeworks%2Fblob%2Fmaster%2Fweb%2Fapp-order.jar","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":null,"truncatedSloc":null},"mode":"file"},"image":false,"isCodeownersFile":null,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":null,"large":true,"loggedIn":true,"newDiscussionPath":"/netology-code/aqa-homeworks/discussions/new","newIssuePath":"/netology-code/aqa-homeworks/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/netology-code/aqa-homeworks/blob/master/web/app-order.jar","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/netology-code/aqa-homeworks/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"renderImageOrRaw":true,"richText":null,"renderedFileInfo":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"netology-code","repoName":"aqa-homeworks","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":false,"actionsOnboardingTip":null},"truncated":true,"viewable":false,"workflowRedirectUrl":null,"symbols":{"timedOut":true,"notAnalyzed":true,"symbols":[],"error":{"code":"invalid_argument","msg":"content must be present","meta":{"argument":"content"}}}},"csrf_tokens":{"/netology-code/aqa-homeworks/branches":{"post":"ntlFugH-GtU7ajuS8LWk6a3VTYMP7gZPxFNThnft9LAYoJ7xQD23hk9TYG6pvY11TwUTCWmr7VhEXloI0-NU0Q"}}},"title":"aqa-homeworks/web/app-order.jar at master · netology-code/aqa-homeworks","locale":"en","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-848bb9a5da17.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-c9b8ff248bc9.js","githubDevUrl":"https://github.dev/","enabled_features":{"virtualize_file_tree":true,"react_repos_overview":false,"repos_new_shortcut_enabled":true,"blob_navigation_cursor":true,"code_nav_ui_events":false,"ref_selector_v2":false,"blob_firefox_separate_characters":true,"column_symbol_auto_select":false,"copilot_conversational_ux":false}}}</script>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":true,"fileTree":{"web":{"items":[{"name":"pic","path":"web/pic","contentType":"directory"},{"name":"README.md","path":"web/README.md","contentType":"file"},{"name":"app-order.jar","path":"web/app-order.jar","contentType":"file"},{"name":"selectors.md","path":"web/selectors.md","contentType":"file"}],"totalCount":4},"":{"items":[{"name":"api-ci","path":"api-ci","contentType":"directory"},{"name":"basics","path":"basics","contentType":"directory"},{"name":"bdd","path":"bdd","contentType":"directory"},{"name":"docker","path":"docker","contentType":"directory"},{"name":"patterns","path":"patterns","contentType":"directory"},{"name":"pic","path":"pic","contentType":"directory"},{"name":"reporting","path":"reporting","contentType":"directory"},{"name":"selenide","path":"selenide","contentType":"directory"},{"name":"sql","path":"sql","contentType":"directory"},{"name":"summary","path":"summary","contentType":"directory"},{"name":"web","path":"web","contentType":"directory"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"idea-installation.md","path":"idea-installation.md","contentType":"file"},{"name":"notWorkingAppveyor.md","path":"notWorkingAppveyor.md","contentType":"file"},{"name":"report-requirements.md","path":"report-requirements.md","contentType":"file"}],"totalCount":16}},"fileTreeProcessingTime":4.801277,"foldersToFetch":[],"reducedMotionEnabled":"system","repo":{"id":202597292,"defaultBranch":"aqa-55","name":"aqa-homeworks","ownerLogin":"netology-code","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2019-08-15T22:09:15.000+03:00","ownerAvatar":"https://avatars.githubusercontent.com/u/25052038?v=4","public":true,"private":false,"isOrgOwned":true},"refInfo":{"name":"master","listCacheKey":"v0:1677764368.630646","canEdit":true,"refType":"branch","currentOid":"df7a638f6cfedf34711e088c327d1c8cc378c884"},"path":"web/app-order.jar","currentUser":{"id":127352228,"login":"Kanger79","userEmail":"dmitrykanger@yandex.ru"},"blob":{"rawBlob":"","colorizedLines":null,"stylingDirectives":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/netology-code/aqa-homeworks/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":false,"repoAlertsPath":"/netology-code/aqa-homeworks/security/dependabot","repoSecurityAndAnalysisPath":"/netology-code/aqa-homeworks/settings/security_analysis","repoOwnerIsOrg":true,"currentUserCanAdminRepo":false},"displayName":"app-order.jar","displayUrl":"https://github.com/netology-code/aqa-homeworks/blob/master/web/app-order.jar?raw=true","headerInfo":{"blobSize":"9.79 MB","deleteInfo":{"deletePath":"https://github.com/netology-code/aqa-homeworks/delete/master/web/app-order.jar","deleteTooltip":"Fork this repository and delete the file"},"editInfo":{"editTooltip":"Fork this repository and edit the file"},"ghDesktopPath":"https://desktop.github.com","gitLfsPath":null,"onBranch":true,"shortPath":"309cded","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fnetology-code%2Faqa-homeworks%2Fblob%2Fmaster%2Fweb%2Fapp-order.jar","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":null,"truncatedSloc":null},"mode":"file"},"image":false,"isCodeownersFile":null,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":null,"large":true,"loggedIn":true,"newDiscussionPath":"/netology-code/aqa-homeworks/discussions/new","newIssuePath":"/netology-code/aqa-homeworks/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/netology-code/aqa-homeworks/blob/master/web/app-order.jar","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/netology-code/aqa-homeworks/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"renderImageOrRaw":true,"richText":null,"renderedFileInfo":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"netology-code","repoName":"aqa-homeworks","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":false,"actionsOnboardingTip":null},"truncated":true,"viewable":false,"workflowRedirectUrl":null,"symbols":{"timedOut":true,"notAnalyzed":true,"symbols":[],"error":{"code":"invalid_argument","msg":"content must be present","meta":{"argument":"content"}}}},"csrf_tokens":{"/netology-code/aqa-homeworks/branches":{"post":"e85h3TGhKX-Ys33iBFMYzP8qfh2G7O-9M5ICu2E9UHb9t7qWcGKELOyKJh5dWzFQHfogl-CpBKqznws1xTPwFw"}}},"title":"aqa-homeworks/web/app-order.jar at master · netology-code/aqa-homeworks","locale":"en","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-848bb9a5da17.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-c9b8ff248bc9.js","githubDevUrl":"https://github.dev/","enabled_features":{"virtualize_file_tree":true,"react_repos_overview":false,"repos_new_shortcut_enabled":true,"blob_navigation_cursor":true,"code_nav_ui_events":false,"ref_selector_v2":false,"blob_firefox_separate_characters":true,"column_symbol_auto_select":false,"copilot_conversational_ux":false}}}</script>
   <div data-target="react-app.reactRoot"></div>
 </react-app>
 </turbo-frame>
