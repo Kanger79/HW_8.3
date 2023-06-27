@@ -1,5 +1,6 @@
 package ru.netology.domain;
 
+import com.codeborne.selenide.SelenideElement;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
@@ -7,14 +8,14 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-import org.openqa.selenium.devtools.v85.input.Input;
 
+import static com.codeborne.selenide.Selenide.$;
+import static com.codeborne.selenide.Selenide.open;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class CallBackTest {
+public class CardTest {
     private static WebDriver driver;
 
     static ChromeOptions options = new ChromeOptions();
@@ -55,5 +56,18 @@ public class CallBackTest {
   //      Thread.sleep(5000);
 
 
-    }
+      }
+//    @Test
+//    void shouldSelenideTest() throws InterruptedException {
+//        open("http://localhost:9999/");
+// //       SelenideElement form = $("[data-test-id=name]");
+//        $("[data-test-id=name] input").setValue("Иванов Иван");
+//        $("[data-test-id=phone] input").setValue("+79181234567");
+//        $("[data-test-id=agreement]").click();
+//        $("button").click();
+//
+//
+//        Thread.sleep(3000);
+//    }
+
 }
