@@ -1,35 +1,36 @@
 package ru.netology.domain;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+import org.junit.Test;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.edge.EdgeDriver;
-import org.openqa.selenium.edge.EdgeOptions;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertFalse;
 
 public class SeleniumCardTest {
     private WebDriver driver;
 
     @BeforeAll
     static void setUpAll() {
-        //       WebDriverManager.chromedriver().setup();    // для Chrome
-        WebDriverManager.edgedriver().setup();    // для MS Edge
+        WebDriverManager.chromedriver().setup();    // для Chrome
+        //        WebDriverManager.edgedriver().setup();    // для MS Edge
     }
 
     @BeforeEach
     void setUp() {
 //        driver = new ChromeDriver();    // для Chrome
 //        driver = new EdgeDriver();    // для Edge
-        EdgeOptions options = new EdgeOptions();
+        ChromeOptions options = new ChromeOptions();
         options.addArguments("--disable-dev-shm-usage");
         options.addArguments("--no-sandbox");
         options.addArguments("--headless");
-        driver = new EdgeDriver(options);
+        driver = new ChromeDriver(options);
         driver.get("http://localhost:9999");
 
     }
@@ -80,7 +81,7 @@ public class SeleniumCardTest {
         driver.findElement(By.cssSelector("[data-test-id=phone] input")).sendKeys("");
         driver.findElement(By.className("button")).click();
         boolean actual = driver.findElement(By.cssSelector("[data-test-id=agreement] span.checkbox__box")).isSelected();
-        assertEquals(false, actual);
+        assertFalse(actual);
     }
 
     @Test

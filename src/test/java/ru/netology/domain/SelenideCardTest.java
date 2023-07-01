@@ -1,13 +1,16 @@
 package ru.netology.domain;
 
 import com.codeborne.selenide.Condition;
+import org.junit.Test;
 import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
+
+import java.time.Duration;
 
 import static com.codeborne.selenide.Condition.exactText;
+import static com.codeborne.selenide.Condition.visible;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.Assert.assertFalse;
 
 public class SelenideCardTest {
 
@@ -55,8 +58,8 @@ public class SelenideCardTest {
         $("[data-test-id=name] input").setValue("Иванов-Петров Максим");
         $("[data-test-id=phone] input").setValue("+79181234567");
         $("button").click();
-        boolean actual = $("[data-test-id=agreement] span.checkbox__box").isSelected();
-        assertEquals(false, actual);
+        boolean actual = $("[data-test-id=agreement] span.checkbox__box").shouldBe(visible, Duration.ofSeconds(10)).isSelected();
+        assertFalse(actual);
     }
 
     @Test
