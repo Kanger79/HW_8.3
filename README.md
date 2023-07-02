@@ -9,9 +9,8 @@
 ### Задание 1 и 2
 
 
-**Класс SeleniumCardTest** - Тесты на Selenium (Браузер MS Edge)
-
-**Класс SelenideCardTest** - Тесты на Selenide (Браузер Google Chrome)
+**Класс SeleniumCardTest** - Тесты на Selenium 
+**Класс SelenideCardTest** - Тесты на Selenide 
 
 ***
  История замечаний
